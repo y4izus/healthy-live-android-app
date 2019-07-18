@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+   
+<activities>
+    <activity
+        date="07/07/2011"
+        aim="0,5h"
+        success="SI" />
+    <activity
+        date="08/07/2011"
+        aim="0,5h"
+        success="NO" />
+    <activity
+        date="09/07/2011"
+        aim="0,5h"
+        success="NO" />
+    <activity
+        date="10/07/2011"
+        aim="0,5h"
+        success="SI" />
+    <activity
+        date="11/07/2011"
+        aim="0,5h"
+        success="SI" />
+    <activity
+        date="12/07/2011"
+        aim="0,5h"
+        success="SI" />
+    <activity
+        date="13/07/2011"
+        aim="0,5h"
+        success="NO" />
+    <activity
+        date="SEMANA"
+        aim="3,5h"
+        success="SI" />
+</activities>

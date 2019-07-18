@@ -1,0 +1,23 @@
+AYUDA TFM
+
+Esta aplicación pretende ser un refuerzo para conseguir un estilo de vida saludable mediante el registro y la monitorización de la actividad. Así mismo, la aplicación cuenta con una realimentación de los datos para que el usuario sea consciente de su progreso.
+
+CONFIGURACIÓN
+
+Antes de comenzar a utilizar la aplicación deben configurarse los datos del usuario.
+
+PLAY
+
+Pone en marcha la lectura del acelerómetro. Deberá seleccionarse esta opción cada vez que se reinicie el dispositivo móvil.
+
+EVOLUCIÓN
+
+Puede consultarse la evolución del paciente según tres criterios:
+1.- Peso
+2.- Índice de masa corporal (IMC)
+3.- Cumplimiento de objetivos en la realización de actividad física.
+
+CONSEJOS
+
+Recomendaciones generales a tener en cuenta.
+

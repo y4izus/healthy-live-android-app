@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SplashActivity!</string>
+    <string name="app_name">tfm #1</string>
+    <string name="menu">Menu Principal</string>
+    <string name="help">Ayuda</string>
+    <string name="configuration">Configuración</string>
+    <string name="messages">Consejos</string>
+    <string name="play">Play</string>
+    <string name="monitoring">Evolución</string>
+    <string name="exit">Salir</string>
+    <string name="name">Nombre</string>
+    <string name="dob">Fecha de Nacimiento</string>
+    <string name="pick_dob">Seleccione</string>
+    <string name="gender">Sexo</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    <string name="unknown">Sin Especificar</string>
+    <string name="weight">Peso (en Kg)</string>
+    <string name="tall">Estatura (en m)</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="edit_weight">Modificar Peso</string>
+    <string name="new_weight">Introduzca Peso</string>
+    <string name="weight_evolution">Evolución del Peso</string>
+    <string name="bmi_evolution">Evolución del IMC</string>
+    <string name="activity_evolution">Actividad Realizada</string>
+    <string name="date">Fecha</string>
+    <string name="aim">Objetivo</string>
+    <string name="success">Cumplido?</string>
+    <string name="no_activities">No existe registro de actividad</string>
+    <string name="splash_title">TFM para reforzar estilo de vida saludable</string>
+    <string name="version">Version 1.0</string>
+    <string name="press_continue">PULSE CUALQUIER PUNTO DE LA PANTALLA PARA CONTINUAR</string>
+</resources>
+
+
